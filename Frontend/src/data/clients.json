@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cli-1",
+    "name": "Apex Healthcare",
+    "industry": "Healthcare",
+    "website": "https://example.com"
+  },
+  {
+    "id": "cli-2",
+    "name": "Vanguard Finance",
+    "industry": "Finance",
+    "website": "https://example.com"
+  },
+  {
+    "id": "cli-3",
+    "name": "Bloom E-Commerce",
+    "industry": "Retail & E-commerce",
+    "website": "https://example.com"
+  },
+  {
+    "id": "cli-4",
+    "name": "Scribe AI",
+    "industry": "Artificial Intelligence",
+    "website": "https://example.com"
+  },
+  {
+    "id": "cli-5",
+    "name": "EduTech Global",
+    "industry": "Education Tech",
+    "website": "https://example.com"
+  },
+  {
+    "id": "cli-6",
+    "name": "TransLogix",
+    "industry": "Logistics & Supply Chain",
+    "website": "https://example.com"
+  },
+  {
+    "id": "cli-7",
+    "name": "Omni Retail",
+    "industry": "Consumer Retail",
+    "website": "https://example.com"
+  },
+  {
+    "id": "cli-8",
+    "name": "TelcoConnect",
+    "industry": "Telecommunications",
+    "website": "https://example.com"
+  }
+]

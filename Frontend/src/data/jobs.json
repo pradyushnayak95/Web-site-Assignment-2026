@@ -1,0 +1,110 @@
+[
+  {
+    "id": "job-1",
+    "title": "Senior React Developer",
+    "department": "Engineering",
+    "location": "San Francisco, CA (Remote)",
+    "type": "remote",
+    "experience": "5+ years",
+    "description": "We are seeking a senior React Developer to build interactive, performant user interfaces for our enterprise SaaS clients. You will write clean, well-tested TypeScript code and establish best practices for UI development.",
+    "requirements": [
+      "Extensive experience with modern React (hooks, context) and state management.",
+      "Expert knowledge of TypeScript, HTML5, CSS3, and tailwind CSS.",
+      "Familiarity with React Router v7, Next.js, and SSR implementations.",
+      "Solid understanding of frontend testing using Jest, React Testing Library, or Playwright.",
+      "Proven track record of optimizing web applications for performance and accessibility (WCAG AA).",
+      "Strong communication and collaborative skills in a fully remote team environment."
+    ],
+    "responsibilities": [
+      "Develop reusable, high-fidelity UI components and integrate complex backend APIs.",
+      "Collaborate with UI/UX designers to translate Figma designs into pixel-perfect code.",
+      "Conduct code reviews and mentor junior frontend engineers.",
+      "Identify and resolve application performance bottlenecks and memory leaks.",
+      "Contribute to internal design systems and documentation.",
+      "Participate in agile scrum planning, refinement, and retrospectives."
+    ],
+    "postedDate": "2026-07-01",
+    "slug": "senior-react-developer"
+  },
+  {
+    "id": "job-2",
+    "title": "DevOps Engineer",
+    "department": "Engineering",
+    "location": "New York, NY (Hybrid)",
+    "type": "full-time",
+    "experience": "3+ years",
+    "description": "We are looking for a DevOps Engineer to manage and optimize our cloud infrastructure, automate deployment pipelines, and ensure high availability across multiple staging and production systems.",
+    "requirements": [
+      "Deep understanding of AWS (EC2, ECS, RDS, S3, IAM) or Microsoft Azure.",
+      "Experience writing Infrastructure as Code using Terraform or CloudFormation.",
+      "Hands-on experience with Docker containerization and Kubernetes orchestration.",
+      "Strong proficiency with CI/CD tools (GitHub Actions, GitLab CI, or Jenkins).",
+      "Familiarity with scripting languages such as Bash, Python, or Go.",
+      "Experience configuring monitoring and alerting systems (Prometheus, Grafana, Datadog)."
+    ],
+    "responsibilities": [
+      "Maintain, monitor, and scale cloud hosting infrastructures for high-traffic apps.",
+      "Build, test, and automate scalable deployment and release pipelines.",
+      "Collaborate with development teams to optimize application architectures for cost and speed.",
+      "Implement robust security configurations, firewalls, and credential rotations.",
+      "Configure automated data backups and disaster recovery protocols.",
+      "Provide support and troubleshooting for infrastructure issues in staging/production."
+    ],
+    "postedDate": "2026-06-28",
+    "slug": "devops-engineer"
+  },
+  {
+    "id": "job-3",
+    "title": "UI/UX Designer",
+    "department": "Design",
+    "location": "Remote",
+    "type": "remote",
+    "experience": "3+ years",
+    "description": "Join our creative team as a UI/UX Designer. You will design intuitive customer journeys, wireframes, and gorgeous user interfaces for our web, mobile, and SaaS platform projects.",
+    "requirements": [
+      "Strong portfolio demonstrating user-centric design processes, wireframes, and high-fidelity mockups.",
+      "Advanced proficiency in Figma, design systems, and vector editing tools.",
+      "Solid understanding of design principles: typography, grids, layout, color, and hierarchy.",
+      "Familiarity with responsive web design and mobile app guidelines (iOS Human Interface, Android Material).",
+      "Ability to conduct user research, audits, usability tests, and build user personas.",
+      "Basic understanding of HTML/CSS limits is highly appreciated."
+    ],
+    "responsibilities": [
+      "Establish user journeys, user flows, and wireframes to visualize product designs.",
+      "Design polished, high-fidelity visual mockups and interactive prototypes.",
+      "Maintain, organize, and expand our shared Figma design library.",
+      "Collaborate with developers to ensure designs are accurately implemented.",
+      "Audit existing user interfaces and suggest incremental improvements.",
+      "Present design iterations to internal teams and clients for feedback."
+    ],
+    "postedDate": "2026-07-02",
+    "slug": "ui-ux-designer"
+  },
+  {
+    "id": "job-4",
+    "title": "Technical Project Manager",
+    "department": "Management",
+    "location": "Boston, MA (On-site)",
+    "type": "full-time",
+    "experience": "4+ years",
+    "description": "We are seeking a Technical Project Manager to coordinate sprints, manage client stakeholders, and ensure software deliverables are shipped on time, within budget, and to our quality standard.",
+    "requirements": [
+      "Experience managing software projects in an agile, scrum, or Kanban setting.",
+      "Strong understanding of the software development lifecycle (SDLC) and modern web concepts.",
+      "Proficiency with project management tools like Jira, Confluence, Linear, or Trello.",
+      "Excellent client-facing written and verbal communication skills.",
+      "Ability to write detailed technical specifications, project scopes, and task breakdowns.",
+      "PMP, CSM, or equivalent project management certification is a plus."
+    ],
+    "responsibilities": [
+      "Coordinate development team sprints, standups, retro meetings, and backlog grooming.",
+      "Define project timelines, milestones, deliverables, and resource requirements.",
+      "Interface directly with clients to report progress, manage expectations, and collect requirements.",
+      "Identify and mitigate project risks, bottlenecks, and scope creep.",
+      "Verify quality of deliverables before showing them to clients.",
+      "Maintain clear and up-to-date project documentation in Confluence/Jira."
+    ],
+    "postedDate": "2026-06-25",
+    "slug": "technical-project-manager"
+  }
+]

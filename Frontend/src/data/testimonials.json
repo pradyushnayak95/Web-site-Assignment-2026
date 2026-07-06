@@ -1,0 +1,50 @@
+[
+  {
+    "id": "test-1",
+    "name": "Sarah Jenkins",
+    "role": "CTO",
+    "company": "Apex Healthcare Systems",
+    "content": "LUCID provided us with three senior React developers within two weeks. Their engineering capability and integration with our existing team was absolutely seamless. Our development velocity increased by 40%.",
+    "rating": 5
+  },
+  {
+    "id": "test-2",
+    "name": "David Chen",
+    "role": "VP of Engineering",
+    "company": "Vanguard Finance",
+    "content": "The custom cloud migration strategy LUCID executed was highly professional. They minimized downtime and optimized our AWS infrastructure, saving us close to 25% in monthly hosting costs.",
+    "rating": 5
+  },
+  {
+    "id": "test-3",
+    "name": "Elena Rostova",
+    "role": "Director of Product",
+    "company": "Bloom E-Commerce",
+    "content": "LUCID rebuilt our customer-facing portal using React and Node. The new app has a 98% Lighthouse performance score and has directly increased our transaction conversion rate by 18%.",
+    "rating": 5
+  },
+  {
+    "id": "test-4",
+    "name": "Marcus Thompson",
+    "role": "Founder & CEO",
+    "company": "Scribe AI",
+    "content": "As a fast-growing startup, we needed reliable technical guidance. LUCID's IT consulting team helped us architecture our early backend and select the right technologies to scale to 100k daily users.",
+    "rating": 4
+  },
+  {
+    "id": "test-5",
+    "name": "Priyah Sharma",
+    "role": "VP of HR",
+    "company": "EduTech Global",
+    "content": "Filling niche IT positions was a major bottleneck for us. LUCID's staffing service identified and screened candidates who not only possessed the technical credentials but also aligned with our collaborative culture.",
+    "rating": 5
+  },
+  {
+    "id": "test-6",
+    "name": "Jean-Pierre Durand",
+    "role": "Operations Manager",
+    "company": "TransLogix Solutions",
+    "content": "The supply chain tracking dashboard developed by LUCID has significantly improved our logistics pipeline visibility. Highly responsive layouts and very solid error handling throughout.",
+    "rating": 5
+  }
+]

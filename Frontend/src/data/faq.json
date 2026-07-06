@@ -1,0 +1,62 @@
+[
+  {
+    "id": "faq-1",
+    "question": "What core services does LUCID specialize in?",
+    "answer": "LUCID specializes in four core areas: Custom Software Development (web, mobile, cloud), Manpower Resource Solutions (IT staffing and dedicated developers), IT Consulting (digital transformation and infrastructure audits), and Digital Solutions (UI/UX design and business intelligence).",
+    "category": "general"
+  },
+  {
+    "id": "faq-2",
+    "question": "How quickly can you deploy a dedicated developer team?",
+    "answer": "We maintain an active, fully-vetted pool of IT specialists. In most cases, we can match and deploy qualified candidates to join your project sprints within 5 to 10 business days.",
+    "category": "services"
+  },
+  {
+    "id": "faq-3",
+    "question": "What technologies do your software engineers work with?",
+    "answer": "Our development team is highly proficient in modern stacks including React, TypeScript, Next.js, Node.js, Python, React Native, AWS, Azure, Docker, Kubernetes, and enterprise databases (PostgreSQL, MongoDB).",
+    "category": "general"
+  },
+  {
+    "id": "faq-4",
+    "question": "What is your typical software development engagement model?",
+    "answer": "We offer flexible models: Fixed-Price Contracts (best for well-defined, static specifications), Time & Materials (best for evolving project scopes), and Dedicated Team Hire (monthly developer contracts working directly under your management).",
+    "category": "process"
+  },
+  {
+    "id": "faq-5",
+    "question": "How do you ensure data security and compliance?",
+    "answer": "We sign strict Non-Disclosure Agreements (NDAs) with all clients and developers. Our cloud architectures follow industry best practices, enforcing encryptions, firewalls, and access controls compliant with SOC2, GDPR, and ISO standards.",
+    "category": "process"
+  },
+  {
+    "id": "faq-6",
+    "question": "Do you provide post-launch maintenance and support?",
+    "answer": "Yes, we offer ongoing SLA agreements for maintenance, performance monitoring, security patching, and incremental feature updates to keep your systems running at peak performance.",
+    "category": "support"
+  },
+  {
+    "id": "faq-7",
+    "question": "How do we communicate with the developers during the project?",
+    "answer": "Developers communicate directly with you via Slack, Microsoft Teams, Jira, and regular Zoom/Google Meet syncs. They adapt completely to your time zone and project sprint schedules.",
+    "category": "process"
+  },
+  {
+    "id": "faq-8",
+    "question": "Can I interview the developers before hiring them?",
+    "answer": "Absolutely. We supply detailed resumes and portfolios, and schedule technical and behavioral video interviews with your engineering leads so you can assess competency and team fit.",
+    "category": "services"
+  },
+  {
+    "id": "faq-9",
+    "question": "Do you work with startups, or only enterprise companies?",
+    "answer": "We work with businesses of all sizes, from funded seed-stage startups looking to build their MVP to established multinational enterprises looking to scale their software capabilities or modernize legacy infrastructure.",
+    "category": "general"
+  },
+  {
+    "id": "faq-10",
+    "question": "What happens if a developer is not a good fit for our team?",
+    "answer": "If there is any performance or integration issue, we offer a 30-day replacement guarantee. We will source and train a replacement developer at no additional resource cost to you to ensure zero project disruption.",
+    "category": "support"
+  }
+]

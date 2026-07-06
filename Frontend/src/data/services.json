@@ -1,0 +1,242 @@
+[
+  {
+    "id": "cat-software-development",
+    "title": "Software Development",
+    "slug": "software-development",
+    "description": "We engineer robust, scalable, and high-performing custom software solutions tailored to your unique business challenges, using modern architectures and cutting-edge technologies.",
+    "services": [
+      {
+        "id": "srv-web-development",
+        "title": "Web Development",
+        "slug": "web-development",
+        "tagline": "Modern, interactive, and fast web applications.",
+        "description": "We build highly responsive, secure, and SEO-friendly web applications utilizing React, Next.js, and enterprise-grade backend architectures.",
+        "icon": "Code2",
+        "features": [
+          {
+            "title": "Custom Web Apps",
+            "description": "Tailored web applications designed to streamline your business workflows.",
+            "icon": "AppWindow"
+          },
+          {
+            "title": "E-Commerce Systems",
+            "description": "Scalable online stores with seamless payment gateways and inventory systems.",
+            "icon": "ShoppingCart"
+          },
+          {
+            "title": "Responsive UI/UX",
+            "description": "Stunning interfaces optimized across mobile, tablet, and desktop viewports.",
+            "icon": "Laptop"
+          }
+        ],
+        "technologies": ["React", "TypeScript", "Node.js", "Tailwind CSS", "Next.js"]
+      },
+      {
+        "id": "srv-mobile-apps",
+        "title": "Mobile Apps",
+        "slug": "mobile-apps",
+        "tagline": "Feature-rich native and cross-platform mobile apps.",
+        "description": "Deliver exceptional mobile experiences with our high-performance iOS and Android applications built on React Native and native languages.",
+        "icon": "Smartphone",
+        "features": [
+          {
+            "title": "React Native Solutions",
+            "description": "Cost-effective, single-codebase apps with native performance for both major platforms.",
+            "icon": "Layers"
+          },
+          {
+            "title": "Native iOS & Android",
+            "description": "High-fidelity custom experiences fully exploiting device-specific hardware features.",
+            "icon": "Cpu"
+          },
+          {
+            "title": "Offline-First Architectures",
+            "description": "Data synchronization systems ensuring smooth performance in disconnected environments.",
+            "icon": "WifiOff"
+          }
+        ],
+        "technologies": ["React Native", "Swift", "Kotlin", "TypeScript", "Firebase"]
+      },
+      {
+        "id": "srv-cloud-solutions",
+        "title": "Cloud Solutions",
+        "slug": "cloud-solutions",
+        "tagline": "Scalable cloud infrastructure and serverless architectures.",
+        "description": "Modernize your operations with secure, scalable, and cost-efficient cloud migration, management, and optimization services.",
+        "icon": "Cloud",
+        "features": [
+          {
+            "title": "Cloud Migration",
+            "description": "Seamless transition of legacy infrastructures to AWS, Azure, or Google Cloud.",
+            "icon": "MoveUp"
+          },
+          {
+            "title": "Serverless Implementations",
+            "description": "Auto-scaling, zero-administration backends lowering operational overhead.",
+            "icon": "Zap"
+          },
+          {
+            "title": "Security & Compliance",
+            "description": "Enterprise-grade cloud hardening aligned with SOC2, GDPR, and ISO standards.",
+            "icon": "ShieldCheck"
+          }
+        ],
+        "technologies": ["AWS", "Azure", "Docker", "Kubernetes", "Terraform"]
+      },
+      {
+        "id": "srv-ai-ml",
+        "title": "AI & ML Integration",
+        "slug": "ai-ml",
+        "tagline": "Harness intelligent decision making and automation.",
+        "description": "Unlock data-driven insights and workflow automation by integrating Large Language Models and custom machine learning pipelines.",
+        "icon": "Brain",
+        "features": [
+          {
+            "title": "Generative AI Integration",
+            "description": "Custom LLM solutions, chatbots, and automation agents using OpenAI/Claude APIs.",
+            "icon": "Sparkles"
+          },
+          {
+            "title": "Predictive Modeling",
+            "description": "Machine learning systems predicting market trends, client churn, and operations.",
+            "icon": "TrendingUp"
+          },
+          {
+            "title": "Data Engineering",
+            "description": "ETL pipelines processing raw data into machine-readable datasets.",
+            "icon": "Database"
+          }
+        ],
+        "technologies": ["Python", "TensorFlow", "PyTorch", "OpenAI", "LangChain"]
+      }
+    ]
+  },
+  {
+    "id": "cat-manpower-solutions",
+    "title": "Manpower Solutions",
+    "slug": "manpower-solutions",
+    "description": "We bridge the talent gap by sourcing, hiring, and managing top-tier IT specialists and dedicated developer teams tailored to your project criteria.",
+    "services": [
+      {
+        "id": "srv-dedicated-developers",
+        "title": "Dedicated Developers",
+        "slug": "dedicated-developers",
+        "tagline": "Extend your in-house team with specialized tech talent.",
+        "description": "Hire full-time, vetted software engineers who integrate directly into your workflow and align with your engineering standards.",
+        "icon": "Users",
+        "features": [
+          {
+            "title": "Strict Sourcing",
+            "description": "Engineers screened for technical proficiency, communication, and system design.",
+            "icon": "Search"
+          },
+          {
+            "title": "Direct Integration",
+            "description": "Developers adapt to your tools, sprints, slack channels, and code repositories.",
+            "icon": "GitBranch"
+          },
+          {
+            "title": "Flexible Scaling",
+            "description": "Quickly scale your team size up or down based on current project sprints.",
+            "icon": "Maximize"
+          }
+        ],
+        "technologies": ["Staff Augmentation", "Contract-to-Hire", "Remote Teams"]
+      },
+      {
+        "id": "srv-recruitment",
+        "title": "Permanent Recruitment",
+        "slug": "recruitment",
+        "tagline": "Source high-caliber talent for key permanent roles.",
+        "description": "Leverage our extensive recruiter network to fill executive, engineering, and product roles with qualified candidates.",
+        "icon": "UserPlus",
+        "features": [
+          {
+            "title": "Executive Search",
+            "description": "Sourcing CTOs, Directors, and tech leaders with deep industry pedigree.",
+            "icon": "Crown"
+          },
+          {
+            "title": "End-to-End Screening",
+            "description": "Managing resumes, initial interviews, technical tests, and salary offers.",
+            "icon": "ClipboardCheck"
+          },
+          {
+            "title": "Low Attrition Rate",
+            "description": "Cultural alignment checks resulting in over 92% retention rate past year one.",
+            "icon": "Heart"
+          }
+        ],
+        "technologies": ["Headhunting", "ATS Integration", "Cultural Screening"]
+      }
+    ]
+  },
+  {
+    "id": "cat-it-consulting",
+    "title": "IT Consulting",
+    "slug": "it-consulting",
+    "description": "Navigate complex technological challenges with our strategic consultants who optimize IT infrastructures and plan long-term technology roadmaps.",
+    "services": [
+      {
+        "id": "srv-digital-strategy",
+        "title": "Digital Transformation Strategy",
+        "slug": "digital-strategy",
+        "tagline": "Modernize processes to drive efficiency and growth.",
+        "description": "We analyze your legacy architecture and formulate step-by-step roadmaps to digitize business operations and upgrade legacy technology stacks.",
+        "icon": "Compass",
+        "features": [
+          {
+            "title": "Architecture Assessment",
+            "description": "Comprehensive review of current tech stacks, bottlenecks, and costs.",
+            "icon": "Activity"
+          },
+          {
+            "title": "Transformation Roadmap",
+            "description": "Actionable strategy specifying timelines, platforms, budgets, and milestones.",
+            "icon": "Milestone"
+          },
+          {
+            "title": "Change Management",
+            "description": "Guiding teams through software adoption, reducing training frictions.",
+            "icon": "RefreshCw"
+          }
+        ],
+        "technologies": ["Enterprise Architecture", "IT Governance", "Legacy Modernization"]
+      }
+    ]
+  },
+  {
+    "id": "cat-digital-solutions",
+    "title": "Digital Solutions",
+    "slug": "digital-solutions",
+    "description": "Elevate your digital footprint with creative design, web marketing, and business intelligence systems that drive customer engagement.",
+    "services": [
+      {
+        "id": "srv-uiux-design",
+        "title": "UI/UX Design",
+        "slug": "uiux-design",
+        "tagline": "Crafting intuitive and immersive user interfaces.",
+        "description": "Create lasting impressions with user journeys, wireframes, and modern designs built on rigorous user research.",
+        "icon": "Palette",
+        "features": [
+          {
+            "title": "User Research & Audits",
+            "description": "Analyze target audiences, construct personas, and perform usability testing.",
+            "icon": "BarChart3"
+          },
+          {
+            "title": "High-Fidelity Wireframes",
+            "description": "Interactive, click-through prototypes simulating actual user behavior.",
+            "icon": "LayoutGrid"
+          },
+          {
+            "title": "Design Systems",
+            "description": "Reusable UI components and style guides ensuring brand consistency.",
+            "icon": "Component"
+          }
+        ],
+        "technologies": ["Figma", "Adobe XD", "Sketch", "Prototyping", "User Research"]
+      }
+    ]
+  }
+]

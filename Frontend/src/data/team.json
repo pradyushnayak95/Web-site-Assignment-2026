@@ -1,0 +1,60 @@
+[
+  {
+    "id": "team-1",
+    "name": "Jonathan Vance",
+    "role": "Chief Executive Officer & Founder",
+    "bio": "Jonathan has over 20 years of experience in technical leadership and executive management. He oversees LUCID's strategic vision and operations, fostering a culture of innovation and engineering excellence.",
+    "socials": {
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  {
+    "id": "team-2",
+    "name": "Dr. Aris Thorne",
+    "role": "Chief Technology Officer",
+    "bio": "Aris holds a Ph.D. in Computer Science and specializes in distributed systems and AI architectures. He leads our software development practices and technology innovation labs.",
+    "socials": {
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com"
+    }
+  },
+  {
+    "id": "team-3",
+    "name": "Melissa Kincaid",
+    "role": "Chief Operating Officer",
+    "bio": "Melissa manages day-to-day operations and strategic partner relations. Her experience in scaling operations has helped LUCID establish global client partnerships across three continents.",
+    "socials": {
+      "linkedin": "https://linkedin.com"
+    }
+  },
+  {
+    "id": "team-4",
+    "name": "Vikram Malhotra",
+    "role": "VP of Engineering",
+    "bio": "Vikram is a hands-on technical manager with a track record of shipping complex enterprise applications. He directly oversees our engineering teams, sprint delivery, and QA guidelines.",
+    "socials": {
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com"
+    }
+  },
+  {
+    "id": "team-5",
+    "name": "Elena Rostova",
+    "role": "Head of Talent & Recruitment",
+    "bio": "Elena leads our manpower acquisition services. She and her team screen thousands of candidates monthly to maintain our elite pool of developer and IT talent.",
+    "socials": {
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  {
+    "id": "team-6",
+    "name": "Robert Miller",
+    "role": "Director of Client Success",
+    "bio": "Robert focuses on post-launch client support and service delivery. He ensures that our developers and consulting services consistently meet and exceed client expectations.",
+    "socials": {
+      "linkedin": "https://linkedin.com"
+    }
+  }
+]
